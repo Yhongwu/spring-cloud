@@ -1,0 +1,24 @@
+springcloud学习demo
+
+说明
+host映射如下：
+127.0.0.1 eureka7001.com
+127.0.0.1 eureka7002.com
+127.0.0.1 eureka7003.com
+127.0.0.1 myzuul9527.com
+127.0.0.1 config-3344.com
+127.0.0.1 client-config.com
+
+测试：
+config-3344：测试19
+config-client-3355：测试20
+config-dept-8001：测试22
+config-eureka-7001：测试21
+dept-80：测试 测试6、8、9、10、11
+dept-feign-80 测试12
+hystrix-dasgboward-9001：测试15 16
+eureka-7001：测试1、7
+dept-8001：测试1、2、3、4、5
+dept-hystrix-8001：测试13、14
+zuul-gateway-9527：测试17、18
+
